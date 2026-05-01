@@ -29,13 +29,13 @@ text = "A=1000 B=500 C=1000 D=500 E=250"
 #     {"shape": "C", "thickness": 6.5, "width": 75, "depth": 150},
 #     {"shape": "C", "thickness": 8, "width": 90, "depth": 200},
 
-    # フラットバー（FB）
-    {"shape": "FB", "thickness": 3, "width": 32, "depth": None},
-    {"shape": "FB", "thickness": 4.5, "width": 44, "depth": None},
-    {"shape": "FB", "thickness": 6, "width": 90, "depth": None},
-    {"shape": "FB", "thickness": 9, "width": 100, "depth": None},
-    {"shape": "FB", "thickness": 19, "width": 75, "depth": None},
-]
+#     # フラットバー（FB）
+#     {"shape": "FB", "thickness": 3, "width": 32, "depth": None},
+#     {"shape": "FB", "thickness": 4.5, "width": 44, "depth": None},
+#     {"shape": "FB", "thickness": 6, "width": 90, "depth": None},
+#     {"shape": "FB", "thickness": 9, "width": 100, "depth": None},
+#     {"shape": "FB", "thickness": 19, "width": 75, "depth": None},
+# ]
 
 # 数値抽出
 values = re.findall(r'\d+', text)
