@@ -52,3 +52,5 @@ records = [{"長さ": length, "本数": count} for length, count in counted.item
 # 表示
 for r in records:
     print(r)
+
+# test
