@@ -4,7 +4,7 @@ from collections import Counter
 text = "A=1000 B=500 C=1000 D=500 E=250"
 
 # 各鋼材のリスト
-# L5×50,
+# L-3×30,L-3×40,
 # □-5×50×50,
 # C-5×50×50,
 # FB-3×32,
