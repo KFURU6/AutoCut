@@ -41,7 +41,7 @@ data = [
 values = re.findall(r'\d+', text)
 
 # 切断長さに変換（例：20mm引く）
-cut_lengths = [int(v) - 20 for v in values]
+cut_lengths = [int(v) - 30 for v in values]
 
 # 長さごとに本数集計
 counted = Counter(cut_lengths)
