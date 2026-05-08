@@ -1,9 +1,16 @@
 # 以下コマンドでlocalにクローン
 # cd C:\Users\kanta\OneDrive\Desktop
+# cd /Users/kantafurukawa/desktop
 # rmdir /s /q AutoCut
 # git clone https://github.com/KFURU6/AutoCut.git
 # cd C:\Users\kanta\OneDrive\Desktop\AutoCut\python\
 # python .\output.py
+
+# 以下コマンドでlocalにクローン(Mac編)
+# cd /Users/kantafurukawa/desktop
+# git clone https://github.com/KFURU6/AutoCut.git
+# cd /Users/kantafurukawa/desktop/AutoCut/python/
+# python3 input.py
 
 
 # PDFから文字や表を取り出す
