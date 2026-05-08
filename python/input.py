@@ -11,7 +11,7 @@
 # git clone https://github.com/KFURU6/AutoCut.git
 # cd /Users/kantafurukawa/desktop/AutoCut/python/
 # python3 input.py
-
+# ---------------------------------------------------------------------------------
 
 # PDFから文字や表を取り出す
 import pdfplumber
