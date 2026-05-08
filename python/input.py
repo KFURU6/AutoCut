@@ -1,3 +1,10 @@
+# 以下コマンドでlocalにクローン
+# cd C:\Users\kanta\OneDrive\Desktop
+# git clone https://github.com/KFURU6/AutoCut.git
+# cd C:\Users\kanta\OneDrive\Desktop\AutoCut\python\
+# python .\output.py
+
+
 # PDFから文字や表を取り出すためのライブラリ
 import pdfplumber
 
